@@ -15,3 +15,5 @@ Other reference
   in addition, it has textAreaInput().
 2. server side process for long slectize input: https://shiny.rstudio.com/articles/selectize.html#server-side-selectize
 3: Bootstrap button: http://bootstrapdocs.com/v3.3.6/docs/css/#buttons
+4: Data table documentation: https://datatables.net/reference
+5: reactable: https://glin.github.io/reactable/
