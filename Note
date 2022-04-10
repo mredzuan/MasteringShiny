@@ -1,0 +1,17 @@
+Good Alternate Resource
+
+Shiny extension package:
+
+1. https://github.com/daattali/colourpicker
+2. https://github.com/dreamRs/shinyWidgets
+3. https://rstudio.github.io/sortable/ : The sortable package enables drag-and-drop behaviour in your Shiny apps
+4. https://github.com/nanxstats/awesome-shiny-extensions#desktop-deploy : You can find a comprehensive, actively-maintained list of other packages
+
+
+
+
+Other reference
+1. Basic shiny widget: https://shiny.rstudio.com/gallery/widget-gallery.html
+  in addition, it has textAreaInput().
+2. server side process for long slectize input: https://shiny.rstudio.com/articles/selectize.html#server-side-selectize
+3: Bootstrap button: http://bootstrapdocs.com/v3.3.6/docs/css/#buttons
